@@ -1,0 +1,29 @@
+{
+  "name": "jquery.kenburns",
+  "title": "HTML5 Kenburns",
+  "description": "Kenburns effect implemented in HTML5 Canvas + jQuery",
+  "version": "0.0.2",
+  "homepage": "https://github.com/destos/html5-kenburns",
+  "author": {
+    "name": "Patrick Forringer",
+    "email": "patrick@forringer.com",
+    "url": "http://patrick.forringer.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:destos/html5-kenburns.git"
+  },
+  "bugs": {
+    "url": "https://github.com/destos/html5-kenburns/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/destos/html5-kenburns/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}

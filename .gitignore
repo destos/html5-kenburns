@@ -1,4 +1,2 @@
-
-demo/images/.DS_Store
-
-src/.DS_Store
+node_modules/
+.DS_Store
